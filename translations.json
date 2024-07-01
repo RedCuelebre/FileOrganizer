@@ -1,0 +1,44 @@
+{
+    "en": {
+        "select_folder": "Select Folder",
+        "done": "Done",
+        "success_message": "Files organized successfully",
+        "image_extensions": "Images",
+        "video_extensions": "Videos",
+        "audio_extensions": "Audio",
+        "office_extensions": "Office",
+        "executable_extensions": "Executables",
+        "other_extensions": "Others",
+        "language": "Language",
+        "organizing": "Organizing",
+        "app_title": "Organizer"
+    },
+    "es": {
+        "select_folder": "Seleccionar Carpeta",
+        "done": "Hecho",
+        "success_message": "Archivos organizados con éxito",
+        "image_extensions": "Imágenes",
+        "video_extensions": "Vídeos",
+        "audio_extensions": "Audio",
+        "office_extensions": "Oficina",
+        "executable_extensions": "Ejecutables",
+        "other_extensions": "Otros",
+        "language": "Idioma",
+        "organizing": "Organizando",
+        "app_title": "Organizador"
+    },
+    "fr": {
+        "select_folder": "Sélectionner un Dossier",
+        "done": "Fait",
+        "success_message": "Fichiers organisés avec succès",
+        "image_extensions": "Images",
+        "video_extensions": "Vidéos",
+        "audio_extensions": "Audio",
+        "office_extensions": "Bureau",
+        "executable_extensions": "Exécutables",
+        "other_extensions": "Autres",
+        "language": "Langue",
+        "organizing": "Organiser",
+        "app_title": "Organisateur"
+    }
+}
